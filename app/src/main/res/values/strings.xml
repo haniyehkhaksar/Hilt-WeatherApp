@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="news">News</string>
+    <string name="weather">Weather</string>
+    <string name="today_title">Today in</string>
+    <string name="next_three_days">Next 3 days</string>
+    <string name="max_min_temp">max %.0f\u2103 / min %.0f\u2103</string>
+    <string name="max_min_temp_number">%.0f\u2103 / %.0f\u2103</string>
+    <string name="current_temp">Current %.0f\u2103</string>
+    <string name="news_highlights">News Highlights</string>
+    <string name="by_source">By %s</string>
+    <string name="article_title_sample">Article Title</string>
+    <string name="by_source_sample">By Article Source</string>
+
+    <string name="error_getting_news">Error getting news</string>
+    <string name="error_getting_weather">Error getting weather</string>
+
+    <string name="search_your_city">Search Your City Name!</string>
+</resources>
